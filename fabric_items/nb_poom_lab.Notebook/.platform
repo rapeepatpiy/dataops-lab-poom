@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Notebook",
+    "displayName": "nb_poom_lab"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "1d6ad5ee-29fe-b541-42bc-de99aae0ec65"
+  }
+}
